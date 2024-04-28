@@ -1,0 +1,11 @@
+.box{
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background: rgb(205, 204, 236);
+}
